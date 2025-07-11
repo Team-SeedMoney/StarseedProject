@@ -1,0 +1,64 @@
+{
+  "Life": [
+    {
+      "Index": 1,
+      "Tack": "원시 생명체 형성1",
+      "Point": 5,
+      "GetPoint": 2,
+      "Life": 5,
+      "Technology": 0,
+      "Religion": 0,
+      "Culture": 0
+    },
+    {
+      "Index": 2,
+      "Tack": "원시 생명체 형성2",
+      "Point": 8,
+      "GetPoint": 6,
+      "Life": 10,
+      "Technology": 5,
+      "Religion": 0,
+      "Culture": 0
+    },
+    {
+      "Index": 3,
+      "Tack": "자기 복제 유전자 구조",
+      "Point": 12,
+      "GetPoint": 8,
+      "Life": 15,
+      "Technology": 10,
+      "Religion": 0,
+      "Culture": 0
+    },
+    {
+      "Index": 4,
+      "Tack": "신경계 발달",
+      "Point": 18,
+      "GetPoint": 9,
+      "Life": 10,
+      "Technology": 0,
+      "Religion": 10,
+      "Culture": 0
+    },
+    {
+      "Index": 5,
+      "Tack": "의식의 탄생",
+      "Point": 25,
+      "GetPoint": 0,
+      "Life": 20,
+      "Technology": 0,
+      "Religion": 10,
+      "Culture": 5
+    },
+    {
+      "Index": 6,
+      "Tack": "생존 보존 네트워크",
+      "Point": 30,
+      "GetPoint": 10,
+      "Life": 30,
+      "Technology": 10,
+      "Religion": 0,
+      "Culture": 0
+    }
+  ]
+}

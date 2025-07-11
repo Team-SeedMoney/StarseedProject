@@ -1,0 +1,64 @@
+{
+  "Culture": [
+    {
+      "Index": 1,
+      "Tack": "언어 형성",
+      "Point": 5,
+      "GetPoint": 2,
+      "Life": 5,
+      "Technology": 5,
+      "Religion": 3,
+      "Culture": 10
+    },
+    {
+      "Index": 2,
+      "Tack": "언어 형성2",
+      "Point": 9,
+      "GetPoint": 3,
+      "Life": 5,
+      "Technology": 5,
+      "Religion": 3,
+      "Culture": 10
+    },
+    {
+      "Index": 3,
+      "Tack": "기록과 문자",
+      "Point": 14,
+      "GetPoint": 4,
+      "Life": 5,
+      "Technology": 5,
+      "Religion": 5,
+      "Culture": 10
+    },
+    {
+      "Index": 4,
+      "Tack": "예술과 음악",
+      "Point": 18,
+      "GetPoint": 5,
+      "Life": 5,
+      "Technology": 0,
+      "Religion": 10,
+      "Culture": 10
+    },
+    {
+      "Index": 5,
+      "Tack": "철학과 가치 형성",
+      "Point": 24,
+      "GetPoint": 6,
+      "Life": 5,
+      "Technology": 5,
+      "Religion": 10,
+      "Culture": 10
+    },
+    {
+      "Index": 6,
+      "Tack": "세계 문화 네트워크",
+      "Point": 30,
+      "GetPoint": 7,
+      "Life": 5,
+      "Technology": 10,
+      "Religion": 5,
+      "Culture": 10
+    }
+  ]
+}
