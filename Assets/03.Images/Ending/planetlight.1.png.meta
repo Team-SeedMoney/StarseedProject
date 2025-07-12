@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 5d301a7194db5b240831f9f7e296a070
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2576452444497620055
+    second: planetlight.1_0
+  - first:
+      213: -1826850982879526658
+    second: planetlight.1_1
+  - first:
+      213: 8273311883250854104
+    second: planetlight.1_2
+  - first:
+      213: 4118595877702011407
+    second: planetlight.1_3
+  - first:
+      213: -1013321526499010217
+    second: planetlight.1_4
+  - first:
+      213: -7382086143074081950
+    second: planetlight.1_5
+  - first:
+      213: 654910996703215518
+    second: planetlight.1_6
+  - first:
+      213: 6127985823583762157
+    second: planetlight.1_7
+  - first:
+      213: -4982161667688720312
+    second: planetlight.1_8
+  - first:
+      213: 7217314346199107485
+    second: planetlight.1_9
+  - first:
+      213: -2796920079511041989
+    second: planetlight.1_10
+  - first:
+      213: -3454898317997707740
+    second: planetlight.1_11
+  - first:
+      213: 5718244370323925677
+    second: planetlight.1_12
+  - first:
+      213: 1545476746971166209
+    second: planetlight.1_13
+  - first:
+      213: -1639827494652367574
+    second: planetlight.1_14
+  - first:
+      213: 7631025524352599072
+    second: planetlight.1_15
+  - first:
+      213: 9196757352478019953
+    second: planetlight.1_16
+  - first:
+      213: 3777278970761276674
+    second: planetlight.1_17
+  - first:
+      213: -7285969825640737746
+    second: planetlight.1_18
+  - first:
+      213: -7963704648862215808
+    second: planetlight.1_19
+  - first:
+      213: 4603770133733735724
+    second: planetlight.1_20
+  - first:
+      213: -8671735376934949053
+    second: planetlight.1_21
+  - first:
+      213: -1961176517303582093
+    second: planetlight.1_22
+  - first:
+      213: -1631619004026335625
+    second: planetlight.1_23
+  - first:
+      213: -2574362013436958626
+    second: planetlight.1_24
+  - first:
+      213: 986705776224247050
+    second: planetlight.1_25
+  - first:
+      213: -7251265493517136669
+    second: planetlight.1_26
+  - first:
+      213: -7381582187177974560
+    second: planetlight.1_27
+  - first:
+      213: 7996115895475725134
+    second: planetlight.1_28
+  - first:
+      213: -4785711200774354814
+    second: planetlight.1_29
+  - first:
+      213: 9147650542796801246
+    second: planetlight.1_30
+  - first:
+      213: -8020147721942687561
+    second: planetlight.1_31
+  - first:
+      213: -3096356209483631943
+    second: planetlight.1_32
+  - first:
+      213: 7885975162698373635
+    second: planetlight.1_33
+  - first:
+      213: 4210697056084457454
+    second: planetlight.1_34
+  - first:
+      213: -6883347056158922366
+    second: planetlight.1_35
+  - first:
+      213: 918903859039214619
+    second: planetlight.1_36
+  - first:
+      213: -4191296517808775032
+    second: planetlight.1_37
+  - first:
+      213: -5980570274107042222
+    second: planetlight.1_38
+  - first:
+      213: 4893563332484437340
+    second: planetlight.1_39
+  - first:
+      213: 8384648994510927857
+    second: planetlight.1_40
+  - first:
+      213: -1621353815579945647
+    second: planetlight.1_41
+  - first:
+      213: -8750742570563997843
+    second: planetlight.1_42
+  - first:
+      213: 9218415800905505881
+    second: planetlight.1_43
+  - first:
+      213: -1565094639350573625
+    second: planetlight.1_44
+  - first:
+      213: 834199507951199339
+    second: planetlight.1_45
+  - first:
+      213: 2444692041410120042
+    second: planetlight.1_46
+  - first:
+      213: -5930631728720685454
+    second: planetlight.1_47
+  - first:
+      213: 1800236695915854982
+    second: planetlight.1_48
+  - first:
+      213: -8116944741737181276
+    second: planetlight.1_49
+  - first:
+      213: -1001732452173724916
+    second: planetlight.1_50
+  - first:
+      213: -8399556855648267127
+    second: planetlight.1_51
+  - first:
+      213: -207844458768006731
+    second: planetlight.1_52
+  - first:
+      213: -4010399254987848749
+    second: planetlight.1_53
+  - first:
+      213: -906738332494197389
+    second: planetlight.1_54
+  - first:
+      213: 1365330845919501896
+    second: planetlight.1_55
+  - first:
+      213: 6585463747716867908
+    second: planetlight.1_56
+  - first:
+      213: -1198052916170757430
+    second: planetlight.1_57
+  - first:
+      213: 4720823756580371448
+    second: planetlight.1_58
+  - first:
+      213: -5386783875622423808
+    second: planetlight.1_59
+  - first:
+      213: 1921283089746772719
+    second: planetlight.1_60
+  - first:
+      213: -2087218745256115206
+    second: planetlight.1_61
+  - first:
+      213: 4003126694680733265
+    second: planetlight.1_62
+  - first:
+      213: 5832135390772890709
+    second: planetlight.1_63
+  - first:
+      213: 2688687809676040131
+    second: planetlight.1_64
+  - first:
+      213: 7503466703439939767
+    second: planetlight.1_65
+  - first:
+      213: 8682872086251270047
+    second: planetlight.1_66
+  - first:
+      213: -2678929670706654756
+    second: planetlight.1_67
+  - first:
+      213: 6095369831321338934
+    second: planetlight.1_68
+  - first:
+      213: -8187563720812671429
+    second: planetlight.1_69
+  - first:
+      213: 4138687002605784682
+    second: planetlight.1_70
+  - first:
+      213: -4621423094605367918
+    second: planetlight.1_71
+  - first:
+      213: -8726460131469180749
+    second: planetlight.1_72
+  - first:
+      213: -1510016302691446908
+    second: planetlight.1_73
+  - first:
+      213: 9109941493817457162
+    second: planetlight.1_74
+  - first:
+      213: -6686290989120515906
+    second: planetlight.1_75
+  - first:
+      213: -8818150864963142656
+    second: planetlight.1_76
+  - first:
+      213: -2330966264306362858
+    second: planetlight.1_77
+  - first:
+      213: -3128178025332770395
+    second: planetlight.1_78
+  - first:
+      213: 5839225801699710588
+    second: planetlight.1_79
+  - first:
+      213: -3910669312737090875
+    second: planetlight.1_80
+  - first:
+      213: 6496620465961559382
+    second: planetlight.1_81
+  - first:
+      213: -471793579806238047
+    second: planetlight.1_82
+  - first:
+      213: 5414035767578239279
+    second: planetlight.1_83
+  - first:
+      213: 6718111558116342198
+    second: planetlight.1_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: planetlight.1_0
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 769
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca7fef8d561c320800000000000000
+      internalID: 2576452444497620055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_1
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 763
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef084ebc5b8b5a6e0800000000000000
+      internalID: -1826850982879526658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_2
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 775
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d86f2de255b0d270800000000000000
+      internalID: 8273311883250854104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_3
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 763
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a01d72121382930800000000000000
+      internalID: 4118595877702011407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_4
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 769
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75915c1c075ffe1f0800000000000000
+      internalID: -1013321526499010217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 757
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2636cbcc3cf8d8990800000000000000
+      internalID: -7382086143074081950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_6
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 757
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ffdf5e416b61900800000000000000
+      internalID: 654910996703215518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_7
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 763
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f65b93aafa0550800000000000000
+      internalID: 6127985823583762157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_8
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 745
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84898df1c5ecbdab0800000000000000
+      internalID: -4982161667688720312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_9
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 751
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97478da82d092460800000000000000
+      internalID: 7217314346199107485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_10
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 702
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b384693a1085f29d0800000000000000
+      internalID: -2796920079511041989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 739
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ee6acd84cbd00d0800000000000000
+      internalID: -3454898317997707740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_12
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 714
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daae80055f84b5f40800000000000000
+      internalID: 5718244370323925677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_13
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 727
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106b7dfb9e2a27510800000000000000
+      internalID: 1545476746971166209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 727
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da350f4992e39e0800000000000000
+      internalID: -1639827494652367574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 721
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024c9f29849d6e960800000000000000
+      internalID: 7631025524352599072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_16
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 727
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1711ae7e51271af70800000000000000
+      internalID: 9196757352478019953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_17
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 714
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d67c506379b6430800000000000000
+      internalID: 3777278970761276674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_18
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 721
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24187adb0903ea90800000000000000
+      internalID: -7285969825640737746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_19
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 714
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081d07cb0dc3b7190800000000000000
+      internalID: -7963704648862215808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_20
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 702
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d70c87b80e3ef30800000000000000
+      internalID: 4603770133733735724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_21
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 708
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34faa979e9ec7a780800000000000000
+      internalID: -8671735376934949053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_22
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 702
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3724848295088c4e0800000000000000
+      internalID: -1961176517303582093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_23
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 696
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ecb3819235b59e0800000000000000
+      internalID: -1631619004026335625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_24
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 702
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58a4d96367064cd0800000000000000
+      internalID: -2574362013436958626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_25
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 690
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d1ca9fcab71bd00800000000000000
+      internalID: 986705776224247050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_26
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 636
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec0dd6d3745e5b90800000000000000
+      internalID: -7251265493517136669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_27
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 678
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4e7ec2c1a5f8990800000000000000
+      internalID: -7381582187177974560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_28
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 678
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e436facaa09e7fe60800000000000000
+      internalID: 7996115895475725134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_29
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 690
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2888c38c40db59db0800000000000000
+      internalID: -4785711200774354814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_30
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 672
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed400dcc3bbf2fe70800000000000000
+      internalID: 9147650542796801246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_31
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 678
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0a273b326b2b090800000000000000
+      internalID: -8020147721942687561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_32
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 672
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b237a3ce688705d0800000000000000
+      internalID: -3096356209483631943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_33
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 672
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a9038f0ac907d60800000000000000
+      internalID: 7885975162698373635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_34
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 666
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee772bcc9a66f6a30800000000000000
+      internalID: 4210697056084457454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_35
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 666
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289aaeb62507970a0800000000000000
+      internalID: -6883347056158922366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_36
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 654
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c94c4f03a90cc00800000000000000
+      internalID: 918903859039214619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_37
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 648
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8802da3060685d5c0800000000000000
+      internalID: -4191296517808775032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 648
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256d699a50fb00da0800000000000000
+      internalID: -5980570274107042222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_39
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 642
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c559c967ced69e340800000000000000
+      internalID: 4893563332484437340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_40
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 642
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f82436d14c5470800000000000000
+      internalID: 8384648994510927857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_41
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 636
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15512278b4bcf79e0800000000000000
+      internalID: -1621353815579945647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_42
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 624
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fe4a8defd1f8680800000000000000
+      internalID: -8750742570563997843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_43
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 630
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c12d464546eef70800000000000000
+      internalID: 9218415800905505881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_44
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 630
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c514adb7baa74ae0800000000000000
+      internalID: -1565094639350573625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_45
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 618
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64ac3f580ca39b00800000000000000
+      internalID: 834199507951199339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_46
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 612
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a698979857a4de120800000000000000
+      internalID: 2444692041410120042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_47
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 606
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27651f35dd922bda0800000000000000
+      internalID: -5930631728720685454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_48
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 606
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cffa3acb9bbf810800000000000000
+      internalID: 1800236695915854982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_49
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 618
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afc74743c1da5f80800000000000000
+      internalID: -8116944741737181276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_50
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 564
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03443464a12912f0800000000000000
+      internalID: -1001732452173724916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_51
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 594
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9845364ea87ce6b80800000000000000
+      internalID: -8399556855648267127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_52
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 588
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b18992e0969d1df0800000000000000
+      internalID: -207844458768006731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_53
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 576
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d345f620233858c0800000000000000
+      internalID: -4010399254987848749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_54
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 582
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d047b6a4e9a63f0800000000000000
+      internalID: -906738332494197389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_55
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 576
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e5ae7ab21a2f210800000000000000
+      internalID: 1365330845919501896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_56
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 582
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44760e32364446b50800000000000000
+      internalID: 6585463747716867908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_57
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 570
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca65856839af5fe0800000000000000
+      internalID: -1198052916170757430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_58
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 570
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbb232d13cb38140800000000000000
+      internalID: 4720823756580371448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_59
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 552
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00339b30b9c4e35b0800000000000000
+      internalID: -5386783875622423808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_60
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 552
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2425d6ac4c9aa10800000000000000
+      internalID: 1921283089746772719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_61
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 552
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af309781c95b803e0800000000000000
+      internalID: -2087218745256115206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_62
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 546
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1562453f486fd8730800000000000000
+      internalID: 4003126694680733265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_63
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 528
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c8009ec38efe050800000000000000
+      internalID: 5832135390772890709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_64
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 540
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7d9af4153205520800000000000000
+      internalID: 2688687809676040131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_65
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 534
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84282363ba12860800000000000000
+      internalID: 7503466703439939767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_66
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 540
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f692b9822cf7870800000000000000
+      internalID: 8682872086251270047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_67
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 528
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1964778a782dad0800000000000000
+      internalID: -2678929670706654756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_68
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 528
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6348a82219a179450800000000000000
+      internalID: 6095369831321338934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_69
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 522
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ec51dec2eef5e80800000000000000
+      internalID: -8187563720812671429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_70
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 516
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e08d2b6e19f6930800000000000000
+      internalID: 4138687002605784682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_71
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 498
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295b2494e286ddfb0800000000000000
+      internalID: -4621423094605367918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_72
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 504
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0cb25ceb265e680800000000000000
+      internalID: -8726460131469180749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_73
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f07015c285b0be0800000000000000
+      internalID: -1510016302691446908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_74
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 504
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab497a5830d6e70800000000000000
+      internalID: 9109941493817457162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_75
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0939855c58533a0800000000000000
+      internalID: -6686290989120515906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_76
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 492
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c71164282af9580800000000000000
+      internalID: -8818150864963142656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_77
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 468
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6169998588eb6afd0800000000000000
+      internalID: -2330966264306362858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_78
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 474
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a97bd5e8aa7694d0800000000000000
+      internalID: -3128178025332770395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_79
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 468
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c765b99dde8190150800000000000000
+      internalID: 5839225801699710588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_80
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 456
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e84ccaf28ab9c0800000000000000
+      internalID: -3910669312737090875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_81
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 432
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655eb2aa4e1a82a50800000000000000
+      internalID: 6496620465961559382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_82
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad6542d3ad379f0800000000000000
+      internalID: -471793579806238047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_83
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21a2c788d4822b40800000000000000
+      internalID: 5414035767578239279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetlight.1_84
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 414
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b978f63ed68b3d50800000000000000
+      internalID: 6718111558116342198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      planetlight.1_0: 2576452444497620055
+      planetlight.1_1: -1826850982879526658
+      planetlight.1_10: -2796920079511041989
+      planetlight.1_11: -3454898317997707740
+      planetlight.1_12: 5718244370323925677
+      planetlight.1_13: 1545476746971166209
+      planetlight.1_14: -1639827494652367574
+      planetlight.1_15: 7631025524352599072
+      planetlight.1_16: 9196757352478019953
+      planetlight.1_17: 3777278970761276674
+      planetlight.1_18: -7285969825640737746
+      planetlight.1_19: -7963704648862215808
+      planetlight.1_2: 8273311883250854104
+      planetlight.1_20: 4603770133733735724
+      planetlight.1_21: -8671735376934949053
+      planetlight.1_22: -1961176517303582093
+      planetlight.1_23: -1631619004026335625
+      planetlight.1_24: -2574362013436958626
+      planetlight.1_25: 986705776224247050
+      planetlight.1_26: -7251265493517136669
+      planetlight.1_27: -7381582187177974560
+      planetlight.1_28: 7996115895475725134
+      planetlight.1_29: -4785711200774354814
+      planetlight.1_3: 4118595877702011407
+      planetlight.1_30: 9147650542796801246
+      planetlight.1_31: -8020147721942687561
+      planetlight.1_32: -3096356209483631943
+      planetlight.1_33: 7885975162698373635
+      planetlight.1_34: 4210697056084457454
+      planetlight.1_35: -6883347056158922366
+      planetlight.1_36: 918903859039214619
+      planetlight.1_37: -4191296517808775032
+      planetlight.1_38: -5980570274107042222
+      planetlight.1_39: 4893563332484437340
+      planetlight.1_4: -1013321526499010217
+      planetlight.1_40: 8384648994510927857
+      planetlight.1_41: -1621353815579945647
+      planetlight.1_42: -8750742570563997843
+      planetlight.1_43: 9218415800905505881
+      planetlight.1_44: -1565094639350573625
+      planetlight.1_45: 834199507951199339
+      planetlight.1_46: 2444692041410120042
+      planetlight.1_47: -5930631728720685454
+      planetlight.1_48: 1800236695915854982
+      planetlight.1_49: -8116944741737181276
+      planetlight.1_5: -7382086143074081950
+      planetlight.1_50: -1001732452173724916
+      planetlight.1_51: -8399556855648267127
+      planetlight.1_52: -207844458768006731
+      planetlight.1_53: -4010399254987848749
+      planetlight.1_54: -906738332494197389
+      planetlight.1_55: 1365330845919501896
+      planetlight.1_56: 6585463747716867908
+      planetlight.1_57: -1198052916170757430
+      planetlight.1_58: 4720823756580371448
+      planetlight.1_59: -5386783875622423808
+      planetlight.1_6: 654910996703215518
+      planetlight.1_60: 1921283089746772719
+      planetlight.1_61: -2087218745256115206
+      planetlight.1_62: 4003126694680733265
+      planetlight.1_63: 5832135390772890709
+      planetlight.1_64: 2688687809676040131
+      planetlight.1_65: 7503466703439939767
+      planetlight.1_66: 8682872086251270047
+      planetlight.1_67: -2678929670706654756
+      planetlight.1_68: 6095369831321338934
+      planetlight.1_69: -8187563720812671429
+      planetlight.1_7: 6127985823583762157
+      planetlight.1_70: 4138687002605784682
+      planetlight.1_71: -4621423094605367918
+      planetlight.1_72: -8726460131469180749
+      planetlight.1_73: -1510016302691446908
+      planetlight.1_74: 9109941493817457162
+      planetlight.1_75: -6686290989120515906
+      planetlight.1_76: -8818150864963142656
+      planetlight.1_77: -2330966264306362858
+      planetlight.1_78: -3128178025332770395
+      planetlight.1_79: 5839225801699710588
+      planetlight.1_8: -4982161667688720312
+      planetlight.1_80: -3910669312737090875
+      planetlight.1_81: 6496620465961559382
+      planetlight.1_82: -471793579806238047
+      planetlight.1_83: 5414035767578239279
+      planetlight.1_84: 6718111558116342198
+      planetlight.1_9: 7217314346199107485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

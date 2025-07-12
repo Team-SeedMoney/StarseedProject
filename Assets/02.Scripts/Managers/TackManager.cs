@@ -9,11 +9,19 @@ public class TackManager : MonoBehaviour
 
     private JSONParser parser;
     public List<LifeTackData> lifeTackData;
-    private List<TechnologyTackData> technologyTackData;
-    private List<ReligionTackData> religionTackData;
-    private List<CultureTackData> cultureTackData;
+    public List<TechnologyTackData> technologyTackData;
+    public List<ReligionTackData> religionTackData;
+    public List<CultureTackData> cultureTackData;
 
     public List<LifeTackController> lifeTackControllers;
+    public List<TechnologyTackController> technologyTackControllers;
+    public List<ReligionTackController> religionTackControllers;
+    public List<CultureController> cultureTackControllers;
+
+    public int currentLifeTach = 1;
+    public int currentTechnologyTach = 1;
+    public int currentReligionTack = 1;
+    public int currentCultureTack = 1;
 
     private void Awake()
     {
@@ -36,14 +44,41 @@ public class TackManager : MonoBehaviour
         religionTackData = parser.LoadReligionDataFromJSON();
         cultureTackData = parser.LoadCultureDataFromJSON();
 
-        LifeTechHandler();
+        LifeTachHandler();
+        TechnologyTackHandler();
+        ReligionTachHandler();
+        CultureTackHandler();
     }
 
-    public void LifeTechHandler()
+    public void LifeTachHandler()
     {
         for(int i = 0; i < lifeTackControllers.Count; i++)
         {
             lifeTackControllers[i].lifeTackData = lifeTackData[i];
+        }
+    }
+
+    public void TechnologyTackHandler()
+    {
+        for (int i = 0; i < technologyTackControllers.Count; i++)
+        {
+            technologyTackControllers[i].technologyTackData = technologyTackData[i];
+        }
+    }
+
+    public void ReligionTachHandler()
+    {
+        for(int i = 0; i  < religionTackControllers.Count; i++)
+        {
+            religionTackControllers[i].religionTackData = religionTackData[i];
+        }
+    }
+
+    public void CultureTackHandler()
+    {
+        for(int i = 0; i < cultureTackControllers.Count; i++)
+        {
+            cultureTackControllers[i].cultureTackData = cultureTackData[i];
         }
     }
 }

@@ -62,12 +62,43 @@ namespace Utils.ClassUtility
         public List<CultureTackData> Culture;
     }
 
+    [System.Serializable]
     public class CultureTackData
     {
         public int Index;
         public string Tack;
         public int Point;
         public int GetPoint;
+        public int Life;
+        public int Technology;
+        public int Religion;
+        public int Culture;
+    }
+
+    public class PepolePointDataList
+    {
+        public List<PepolePointData> PepolePoint;
+    }
+
+    [System.Serializable]
+    public class PepolePointData
+    {
+        public int Pepole;
+        public int GetPoint;
+        public int Life;
+    }
+
+    public class EventDataList
+    {
+        public List<EventData> Events;
+    }
+
+    [System.Serializable]
+    public class EventData
+    {
+        public int Index;
+        public string Title;
+        public string Dialog;
         public int Life;
         public int Technology;
         public int Religion;

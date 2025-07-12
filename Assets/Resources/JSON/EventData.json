@@ -1,0 +1,184 @@
+{
+  "Events": [
+    {
+      "Index": 0,
+      "Title": "기이한 생명체의 출현",
+      "Dialog": "누가 술 마시고 진화를 눌렀나요? 이젠 다리 4개도 부족해보입니다!",
+      "Life": 5,
+      "Technology": 0,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 1,
+      "Title": "유전자 변형 폭주",
+      "Dialog": "이쯤 되면 유전자가 아니라 우전잔치입니다. 생태계가 단체로 삐졌어요~",
+      "Life": -5,
+      "Technology": -5,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 2,
+      "Title": "기후 적응 생명체 출현",
+      "Dialog": "어제는 물고기 였는데 오늘은 털이..에취! 어이구 추워.....",
+      "Life": 5,
+      "Technology": 0,
+      "Religion": 0,
+      "Cultrue": -5
+    },
+    {
+      "Index": 3,
+      "Title": "새로운 질병의 출현",
+      "Dialog": "아이고 이젠 병도 진화를 한답니다",
+      "Life": -10,
+      "Technology": 0,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 4,
+      "Title": "도구 진화",
+      "Dialog": "돌멩이>창>노트북>전자동 김치 냉장고 인류는 효율의 끝을 향해 달립니다.",
+      "Life": 5,
+      "Technology": 5,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 5,
+      "Title": "에너지 기술의 발전",
+      "Dialog": "새로운 아이*맨의 탄생 지금 입니다.",
+      "Life": 0,
+      "Technology": 10,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 6,
+      "Title": "AI 등장",
+      "Dialog": "안녕 나는 너보다 똑똑하고 쿨한 인공지능이야(감정 그런거 없음)",
+      "Life": 0,
+      "Technology": 10,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 7,
+      "Title": "전쟁 발발",
+      "Dialog": "이거 되는거야? 어..? 이거 되는거였어?",
+      "Life": -10,
+      "Technology": 0,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 8,
+      "Title": "종교 갈등",
+      "Dialog": "한쪽은 절이 옳다 다른 한쪽은 교회가 옳다 결국 둘 다 햄버거집에서 화해합니다.",
+      "Life": -5,
+      "Technology": 0,
+      "Religion": -5,
+      "Cultrue": 0
+    },
+    {
+      "Index": 9,
+      "Title": "통합 종교 등장",
+      "Dialog": "이젠 기도하면서 명상하고, 스님이 종을치면 신부님이 축복을 줍니다.",
+      "Life": 0,
+      "Technology": 0,
+      "Religion": 10,
+      "Cultrue": 0
+    },
+    {
+      "Index": 10,
+      "Title": "초기 신앙 등장",
+      "Dialog": "천둥이 울리자 모두 절을 하기 시작했어요 분명 배에서 난 소리였는데 말이죠…",
+      "Life": 5,
+      "Technology": 5,
+      "Religion": 0,
+      "Cultrue": 5
+    },
+    {
+      "Index": 11,
+      "Title": "교육 시스템 정립",
+      "Dialog": "지식을 다음 세대로~(하지만 숙제도 같이!!)",
+      "Life": -5,
+      "Technology": 0,
+      "Religion": 0,
+      "Cultrue": 5
+    },
+    {
+      "Index": 12,
+      "Title": "사회 계급화",
+      "Dialog": "짜잔! 계급이 생겼습니다. 위로 갈수록 덜 일하고, 아래로 갈수록 더 땀나요!",
+      "Life": -10,
+      "Technology": 5,
+      "Religion": -5,
+      "Cultrue": -10
+    },
+    {
+      "Index": 13,
+      "Title": "사이보그 인간 등장",
+      "Dialog": "왼손은 생체, 오른손은 USB 인터넷 속도도 몸속에서 확인 가능!",
+      "Life": -10,
+      "Technology": 10,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 14,
+      "Title": "영생 연구",
+      "Dialog": "늙지 않기 위해 연구를 시작했지만 이미 머리는 까졌고 허리는 아픕니다...",
+      "Life": 10,
+      "Technology": 5,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 15,
+      "Title": "예술 진화",
+      "Dialog": "VR 안에서 그림을 그리고 AI가 평론을 하며 인간은 구경만 합니다.",
+      "Life": 0,
+      "Technology": 5,
+      "Religion": 0,
+      "Cultrue": 5
+    },
+    {
+      "Index": 16,
+      "Title": "종교 축제 등장",
+      "Dialog": "모두 손 머리 위로! 하나님을 향해 뛰어!!!!!!",
+      "Life": 0,
+      "Technology": 5,
+      "Religion": 5,
+      "Cultrue": 0
+    },
+    {
+      "Index": 17,
+      "Title": "새로운 종교의 등장",
+      "Dialog": "옛날엔 곰을 신으로 모셨다던데? 그래? 내가 다시 부활시킨다.",
+      "Life": 5,
+      "Technology": 0,
+      "Religion": 5,
+      "Cultrue": 0
+    },
+    {
+      "Index": 18,
+      "Title": "스마트 도시 등장",
+      "Dialog": "개쩌는 차를 타는 기분 느껴본적있어?",
+      "Life": 5,
+      "Technology": 5,
+      "Religion": 0,
+      "Cultrue": 0
+    },
+    {
+      "Index": 19,
+      "Title": "미래의 예측 인공지능 등장",
+      "Dialog": "AI:3분뒤 실수 발생. 나: 뭐라는거야… 3분뒤 진짜 실수함.",
+      "Life": 0,
+      "Technology": 5,
+      "Religion": 5,
+      "Cultrue": 0
+    }
+  ]
+}

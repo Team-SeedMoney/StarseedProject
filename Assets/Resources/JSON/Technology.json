@@ -13,7 +13,7 @@
     {
       "Index": 2,
       "Tack": "도구 사용 인지2",
-      "Point": 8,
+      "Point": 10,
       "GetPoint": 0,
       "Life": 0,
       "Technology": 8,
@@ -23,7 +23,7 @@
     {
       "Index": 3,
       "Tack": "도구 사용 인지3",
-      "Point": 10,
+      "Point": 15,
       "GetPoint": 0,
       "Life": 0,
       "Technology": 10,

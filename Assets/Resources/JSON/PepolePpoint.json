@@ -1,0 +1,49 @@
+{
+  "PepolePoint": [
+    {
+      "Pepole": 0,
+      "GetPoint": 1,
+      "Life": 5
+    },
+    {
+      "Pepole": 1000,
+      "GetPoint": 1,
+      "Life": 10
+    },
+    {
+      "Pepole": 100000,
+      "GetPoint": 1,
+      "Life": 10
+    },
+    {
+      "Pepole": 10000000,
+      "GetPoint": 1,
+      "Life": 10
+    },
+    {
+      "Pepole": 100000000,
+      "GetPoint": 2,
+      "Life": 20
+    },
+    {
+      "Pepole": 1000000000,
+      "GetPoint": 2,
+      "Life": 20
+    },
+    {
+      "Pepole": 2000000000,
+      "GetPoint": 3,
+      "Life": 20
+    },
+    {
+      "Pepole": 5000000000,
+      "GetPoint":2,
+      "Life": 40
+    },
+    {
+      "Pepole": 8000000000,
+      "GetPoint": 1,
+      "Life": 40
+    }
+  ]
+}
