@@ -19,5 +19,6 @@ public class AudioManager : MonoBehaviour
     public void PlayBGM(int index)
     {
         bgmAudioSource.clip = bgms[index];
+        bgmAudioSource.Play();
     }
 }

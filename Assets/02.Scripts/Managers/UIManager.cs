@@ -1,5 +1,6 @@
 using DG.Tweening;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
@@ -20,6 +21,8 @@ public class UIManager : MonoBehaviour
     public Slider technologySlider;
     public Slider religionSlider;
     public Slider cultureSlider;
+
+    public GameObject fileObject;
 
     public GameObject tackButton;
     public GameObject tackObject;
@@ -54,7 +57,14 @@ public class UIManager : MonoBehaviour
     {
         if (Input.GetKeyUp(KeyCode.Escape))
         {
-            tackObject.SetActive(false);
+            if (tackObject.activeSelf)
+            {
+                tackObject.SetActive(false);
+            }
+            else
+            {
+                SceneManager.LoadScene(0);
+            }
         }
     }
 
@@ -97,8 +107,18 @@ public class UIManager : MonoBehaviour
         seq.Append(_object.transform.DOScale(1.0f, 0.1f));
     }
 
+    public void OnTackDeSelect(Image tach)
+    {
+        tach.color = Color.white;
+    }
+
     public void OnEventActive()
     {
         EventManager.Instance.isEventFinish = false;
+    }
+
+    public void GoTitleScene()
+    {
+        SceneManager.LoadScene(0);
     }
 }

@@ -13,17 +13,7 @@
     {
       "Index": 2,
       "Tack": "도구 사용 인지2",
-      "Point": 10,
-      "GetPoint": 0,
-      "Life": 0,
-      "Technology": 8,
-      "Religion": 0,
-      "Culture": 5
-    },
-    {
-      "Index": 3,
-      "Tack": "도구 사용 인지3",
-      "Point": 15,
+      "Point": 7,
       "GetPoint": 0,
       "Life": 0,
       "Technology": 10,
@@ -31,39 +21,49 @@
       "Culture": 5
     },
     {
-      "Index": 4,
-      "Tack": "정보 통신 기술",
-      "Point": 23,
-      "GetPoint": 6,
+      "Index": 3,
+      "Tack": "도구 사용 인지3",
+      "Point": 10,
+      "GetPoint": 0,
       "Life": 0,
       "Technology": 15,
+      "Religion": 0,
+      "Culture": 5
+    },
+    {
+      "Index": 4,
+      "Tack": "정보 통신 기술",
+      "Point": 15,
+      "GetPoint": 6,
+      "Life": 0,
+      "Technology": 20,
       "Religion": 0,
       "Culture": 15
     },
     {
       "Index": 5,
       "Tack": "에너지 집약 기술",
-      "Point": 34,
+      "Point": 24,
       "GetPoint": 10,
       "Life": 0,
-      "Technology": 13,
+      "Technology": 25,
       "Religion": 0,
       "Culture": 0
     },
     {
       "Index": 6,
       "Tack": "인공지능 개발",
-      "Point": 40,
+      "Point": 30,
       "GetPoint": 15,
       "Life": 5,
-      "Technology": 20,
+      "Technology": 30,
       "Religion": 0,
       "Culture": 0
     },
     {
       "Index": 7,
       "Tack": "우주 탐사 기술",
-      "Point": 50,
+      "Point": 35,
       "GetPoint": 20,
       "Life": 0,
       "Technology": 30,

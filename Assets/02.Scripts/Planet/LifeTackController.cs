@@ -6,10 +6,13 @@ using Utils.ClassUtility;
 public class LifeTackController : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     public LifeTackData lifeTackData;
+    public Image outImage;
+    public Image mainLineImage;
     public Image lineImage;
     public TackToolTip tackToolTip;
-
     public Sprite successLine;
+
+    public bool isMain = false;
 
     public void OnNextTach()
     {
@@ -28,18 +31,45 @@ public class LifeTackController : MonoBehaviour, IPointerEnterHandler, IPointerE
                 StatusManager.Instance.ChangeReligionStatus(lifeTackData.Religion);
                 StatusManager.Instance.ChangeCultureStatus(lifeTackData.Culture);
 
+                mainLineImage.color = Color.green;
                 TackManager.Instance.currentLifeTach++;
                 lineImage.sprite = successLine;
             }
         }
     }
 
+    public void OnTackSelect()
+    {
+        outImage.color = Color.green;
+    }
+
+    public void OnTackDeSelect()
+    {
+        outImage.color = Color.white;
+    }
+
     public void OnPointerEnter(PointerEventData eventData)
     {
+        if (isMain)
+            return;
+
         tackToolTip.ShowToolTip(transform.position, lifeTackData.Tack, lifeTackData.Point.ToString());
     }
 
     public void OnPointerExit(PointerEventData eventData)
+    {
+        if (isMain)
+            return;
+
+        tackToolTip.HideToolTip();
+    }
+
+    public void OnMainTackSelect()
+    {
+        tackToolTip.ShowMainToolTip(transform.position, "»ý¸í");
+    }
+    
+    public void OnMainTachExit()
     {
         tackToolTip.HideToolTip();
     }

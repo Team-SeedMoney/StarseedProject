@@ -15,7 +15,7 @@
       "Tack": "원시 생명체 형성2",
       "Point": 8,
       "GetPoint": 6,
-      "Life": 15,
+      "Life": 10,
       "Technology": 10,
       "Religion": 0,
       "Culture": 0
@@ -33,7 +33,7 @@
     {
       "Index": 4,
       "Tack": "신경계 발달",
-      "Point": 20,
+      "Point": 15,
       "GetPoint": 9,
       "Life": 10,
       "Technology": 0,
@@ -43,7 +43,7 @@
     {
       "Index": 5,
       "Tack": "의식의 탄생",
-      "Point": 25,
+      "Point": 20,
       "GetPoint": 0,
       "Life": 20,
       "Technology": 0,
@@ -53,7 +53,7 @@
     {
       "Index": 6,
       "Tack": "생존 보존 네트워크",
-      "Point": 30,
+      "Point": 25,
       "GetPoint": 10,
       "Life": 30,
       "Technology": 10,

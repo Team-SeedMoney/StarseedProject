@@ -6,10 +6,13 @@ using Utils.ClassUtility;
 public class ReligionTackController : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     public ReligionTackData religionTackData;
+    public Image outImage;
+    public Image mainLineImage;
     public Image lineImage;
     public TackToolTip tackToolTip;
 
     public Sprite successLine;
+    public bool isMain = false;
 
     public void OnNextTach()
     {
@@ -27,18 +30,45 @@ public class ReligionTackController : MonoBehaviour, IPointerEnterHandler, IPoin
                 StatusManager.Instance.ChangeReligionStatus(religionTackData.Religion);
                 StatusManager.Instance.ChangeCultureStatus(religionTackData.Culture);
 
+                mainLineImage.color = Color.blue;
                 TackManager.Instance.currentReligionTack++;
                 lineImage.sprite = successLine;
             }
         }
     }
 
+    public void OnTackSelect()
+    {
+        outImage.color = Color.blue;
+    }
+
+    public void OnTackDeSelect()
+    {
+        outImage.color = Color.white;
+    }
+
     public void OnPointerEnter(PointerEventData eventData)
     {
+        if (isMain)
+            return;
+
         tackToolTip.ShowToolTip(transform.position, religionTackData.Tack, religionTackData.Point.ToString());
     }
 
     public void OnPointerExit(PointerEventData eventData)
+    {
+        if (isMain)
+            return;
+
+        tackToolTip.HideToolTip();
+    }
+
+    public void OnMainTackSelect()
+    {
+        tackToolTip.ShowMainToolTip(transform.position, "Á¾±³");
+    }
+
+    public void OnMainTachExit()
     {
         tackToolTip.HideToolTip();
     }

@@ -2,9 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Utils.ClassUtility;
 using DG.Tweening;
-using UnityEditor.Search;
 using UnityEngine.UI;
-using UnityEngine.EventSystems;
 
 public class EventManager : MonoBehaviour
 {

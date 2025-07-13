@@ -11,13 +11,13 @@ public class GameManager : MonoBehaviour
     public List<PepolePointData> pointDatas;
 
     public int days = 1;
-    public int point = 100;
+    public int point = 0;
     public int pepole = 1000;
 
     private float currentDayTime = 0;
-    private float dayTimeLimit = 20.0f;
+    private float dayTimeLimit = 10.0f;
     private float currentPepoleTime = 0;
-    private float pepoleTimeLimit = 10.0f;
+    private float pepoleTimeLimit = 2.0f;
     private float currentPointTime = 0;
     private float getPointTime = 2.0f;
 
@@ -41,7 +41,7 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (!isEnding)
+        if (isEnding)
             return;
 
         DayHandler();
@@ -65,6 +65,9 @@ public class GameManager : MonoBehaviour
 
     public void PepoleHandler()
     {
+        if (TackManager.Instance.currentLifeTach <= 1)
+            return;
+
         if (currentPepoleTime >= pepoleTimeLimit)
         {
             for (int i = 1; i < pointDatas.Count; i++)
@@ -74,7 +77,7 @@ public class GameManager : MonoBehaviour
                     if(pointDatas[i].Life <= StatusManager.Instance.Life)
                     {
                         currentPepoleTime = 0;
-                        pepole += 10000;
+                        pepole += 1000000;
                         UIManager.Instance.ChangePepoleText();
                         return;
                     }
