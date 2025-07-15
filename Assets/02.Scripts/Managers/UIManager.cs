@@ -57,14 +57,12 @@ public class UIManager : MonoBehaviour
     {
         if (Input.GetKeyUp(KeyCode.Escape))
         {
-            if (tackObject.activeSelf)
-            {
-                tackObject.SetActive(false);
-            }
-            else
-            {
-                SceneManager.LoadScene(0);
-            }
+            tackObject.SetActive(false);
+        }
+
+        if(Input.GetKeyDown(KeyCode.F12))
+        {
+            SceneManager.LoadScene(0);
         }
     }
 

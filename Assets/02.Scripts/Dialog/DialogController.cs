@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -11,10 +12,23 @@ public class DialogController : MonoBehaviour
 
     private float delay = 0.05f;
 
+    private void Awake()
+    {
+        Screen.SetResolution(1920, 1080, true);
+    }
+
     public void Start()
     {
         dialogText.text = " ";
         StartCoroutine(textPrint(delay));
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.F12))
+        {
+            SceneManager.LoadScene(0);
+        }
     }
 
     IEnumerator textPrint(float d)
