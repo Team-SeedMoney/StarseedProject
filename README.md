@@ -24,6 +24,10 @@
 
 ## 🏆 Award
 + **2025 GNGC 게임잼 최우수상 수상**
+<div>
+ <img width="49%" src="https://github.com/Team-SeedMoney/StarseedProject/blob/main/Images/%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81(seed%EB%A8%B8%EB%8B%88_2%ED%8C%80).jpg">
+ <img width="49%" src="https://github.com/Team-SeedMoney/StarseedProject/blob/main/Images/%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84.png">
+</div>
 
 ## 🔗 Links
  📺 [youtube : Starseed Project 플레이 영상](https://www.youtube.com/watch?v=3hBcUoEb1M0)
