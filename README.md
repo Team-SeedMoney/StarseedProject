@@ -22,6 +22,9 @@
 + **이벤트** 발생
 + **엔딩**
 
+## 🏆 Award
++ **2025 GNGC 게임잼 최우수상 수상**
+
 ## 🔗 Links
  📺 [youtube : Starseed Project 플레이 영상](https://www.youtube.com/watch?v=3hBcUoEb1M0)
 
