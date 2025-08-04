@@ -32,4 +32,4 @@
 ## 🔗 Links
  📺 [youtube : Starseed Project 플레이 영상](https://www.youtube.com/watch?v=3hBcUoEb1M0)
 
- 🎮 [Stove Game Play](https://store.onstove.com/ko/games/5032)
+ 🎮 [Stove Game Play](https://store.onstove.com/ko/games/102104)
